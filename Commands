@@ -1,0 +1,26 @@
+cd - change directory
+rm -rf  directory/file   - to remove file or directory
+cp source destination - to copy file from source to destination.
+mv file1 file2 - It will rename file1 as file2
+mv source(file/directory) Destination(file/directory) - It will move file 
+chmod - to change the file permission
+chown - to change the owner the file
+ssh hostname - secure shell (to connect the server)
+sftp user@host - To connect remotely server
+hostname -I - It will provide name for current server.
+wget --no-check-certificate Link  - It will download the data from link
+top -c   - It will show running processes and displays kernel-managed tasks.
+ps -ef | grep $PWD - It will show Process ID .
+free -m  - It will show the free memory 
+Cat filename - It it use to open file
+vi filename - virtual editor (To edit the file)
+tail -f filename - It will show last 10 lines from file
+Head - filename - It will show first 10 lines from file
+grep -ls entitytobesearch filename - eg. grep -ls 133536 IDServer.log (It will search 133536 in IDServer.log file)
+get - The get command allows you to copy data from a remote environment to files in a directory in the local UNIX environment.
+put - copy one file from the local to the remote machine
+touch - put - copy one file from the local to the remote machine
+ls -lrth - list all file
+history - It will give history for executed queries.
+man command - It will show guide for commands.
+
