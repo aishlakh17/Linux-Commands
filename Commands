@@ -23,4 +23,73 @@ touch - put - copy one file from the local to the remote machine
 ls -lrth - list all file
 history - It will give history for executed queries.
 man command - It will show guide for commands.
+id <username> - It shows uid ,gid and user related data
+[agaikwad@vpnnat ~]$ history
+    1  27/04/22 02:35:27 ssh-keygen -t rsa -b 4096 -f agaikwad
+    2  27/04/22 02:36:04 mkdir .ssh
+    3  27/04/22 02:36:05 chmod 700 .ssh
+    4  27/04/22 02:36:05 cat agaikwad.pub >> .ssh/authorized_keys
+    5  27/04/22 02:36:05 chmod 600 .ssh/authorized_keys
+    6  27/04/22 02:36:05 cat agaikwad
+    7  27/04/22 03:11:48 ls
+    8  27/04/22 03:11:50 ll
+    9  27/04/22 03:12:02 sudo su
+   10  27/04/22 03:12:48 id alakhamade
+   11  27/04/22 03:14:31 top
+   12  27/04/22 03:14:44 clear
+   13  27/04/22 03:14:50 pidstat
+   14  27/04/22 03:15:38 iostat
+   15  27/04/22 03:16:23 vmstat
+   16  27/04/22 03:16:53 ifconfig
+   17  27/04/22 03:17:10 w
+   18  27/04/22 03:18:04 whoami
+   19  27/04/22 03:18:12 who
+   20  27/04/22 03:18:33 uptime
+   21  27/04/22 03:19:24 top
+   22  27/04/22 03:20:49 netstat -tulpn
+   23  27/04/22 03:21:44 pwd
+   24  27/04/22 03:22:42 yum install tree -y
+   25  27/04/22 03:22:51 tree
+   26  27/04/22 03:22:56 ls
+   27  27/04/22 03:23:40 clear
+   28  27/04/22 03:11:48 ls
+   29  27/04/22 03:11:50 ll
+   30  27/04/22 03:12:02 sudo su
+   31  27/04/22 03:12:48 id alakhamade
+   32  27/04/22 03:14:31 top
+   33  27/04/22 03:14:44 clear
+   34  27/04/22 03:14:50 pidstat
+   35  27/04/22 03:15:38 iostat
+   36  27/04/22 03:16:23 vmstat
+   37  27/04/22 03:16:53 ifconfig
+   38  27/04/22 03:17:10 w
+   39  27/04/22 03:18:04 whoami
+   40  27/04/22 03:18:12 who
+   41  27/04/22 03:18:33 uptime
+   42  27/04/22 03:19:24 top
+   43  27/04/22 03:20:49 netstat -tulpn
+   44  27/04/22 03:21:44 pwd
+   45  27/04/22 03:22:42 yum install tree -y
+   46  27/04/22 03:22:51 tree
+   47  27/04/22 03:22:56 ls
+   48  27/04/22 03:23:40 clear
+   49  27/04/22 03:33:24 ls
+   50  27/04/22 03:33:31 hostname -i
+   51  27/04/22 03:33:57 nmap -A
+   52  27/04/22 03:34:12 nmap
+   53  27/04/22 03:34:16 sas
+   54  27/04/22 03:34:24 pidstat
+   55  27/04/22 03:34:33 vmstat
+   56  27/04/22 03:34:39 top
+   57  27/04/22 03:34:52 w
+   58  27/04/22 03:35:34 ssh ip-10-0-101-10
+   59  27/04/22 03:35:44 w
+   60  27/04/22 03:36:00 uptime
+   61  27/04/22 03:36:12 service status httpd
+   62  27/04/22 03:36:30 ls
+   63  27/04/22 03:36:37 ls -la
+   64  27/04/22 03:36:44 exit
+   65  27/04/22 03:36:51 logout
+   66  27/04/22 03:43:52 history
+[agaikwad@vpnnat ~]$
 
