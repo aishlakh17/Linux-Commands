@@ -24,7 +24,7 @@ ls -lrth - list all file
 history - It will give history for executed queries.
 man command - It will show guide for commands.
 id <username> - It shows uid ,gid and user related data
-[agaikwad@vpnnat ~]$ history
+
     1  27/04/22 02:35:27 ssh-keygen -t rsa -b 4096 -f agaikwad
     2  27/04/22 02:36:04 mkdir .ssh
     3  27/04/22 02:36:05 chmod 700 .ssh
@@ -91,5 +91,5 @@ id <username> - It shows uid ,gid and user related data
    64  27/04/22 03:36:44 exit
    65  27/04/22 03:36:51 logout
    66  27/04/22 03:43:52 history
-[agaikwad@vpnnat ~]$
+
 
